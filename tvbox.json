@@ -1,0 +1,281 @@
+{
+  "spider": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/666.jar;md5;3c1e44eeaf4767e11a75cea90afee683",
+  "sites": [
+    {
+      "key": "xiaopingguo",
+      "name": "🍎小苹果 · 荐片",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/xiaopingguo.jar;md5;0ba100788615cf2234abcd175299b1a9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dbku",
+      "name": "独播库",
+      "type": 3,
+      "api": "csp_Dbku",
+      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dsx",
+      "name": "🐒大师兄影视🐒",
+      "type": 3,
+      "api": "csp_Dsx",
+      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xbjz",
+      "name": "🍊橘汁 • 4K🍊",
+      "type": 3,
+      "api": "csp_XbJz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hetun4k",
+      "name": "🐡河豚 • 4K🐡",
+      "type": 3,
+      "api": "csp_HeTun4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "http://43.241.18.119:18004"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "amj4k",
+      "name": "🍿爱美剧 • 4K🍿",
+      "type": 3,
+      "api": "csp_Amj4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "newgulu4k",
+      "name": "🌀新咕噜 • 4K🌀",
+      "type": 3,
+      "api": "csp_NewGulu4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fourkvm",
+      "name": "4K影视",
+      "type": 3,
+      "api": "csp_FourKVM",
+      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/4kvm-spider.jar;md5;7dae92712450f110e1ae94c11e58b46a",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yidong4k",
+      "name": "📱移动 • 4K📱",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kanju28",
+      "name": "📺AI • 4K📺",
+      "type": 3,
+      "api": "csp_Kanju28",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "piandi4k",
+      "name": "🎥片帝 • 4K🎥",
+      "type": 3,
+      "api": "csp_PianDi4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://dongpian1.com"
+        ]
+      },
+      "timeout": 60
+    },
+    {
+      "key": "s555",
+      "name": "🎞️555 • 1080🎞️",
+      "type": 3,
+      "api": "csp_S555_1080",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "timeout": 60
+    },
+    {
+      "key": "gugu",
+      "name": "🐧咕咕 • 动漫🐧",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "url": "https://www.gugu3.com"
+      }
+    },
+    {
+      "key": "hxanime",
+      "name": "🌊海星 • 动漫🌊",
+      "type": 3,
+      "api": "csp_HxAnime",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.haixingdmx.com"
+    },
+    {
+      "key": "jibi",
+      "name": "🐤叽哔 • 动漫🐤",
+      "type": 3,
+      "api": "csp_MxOne",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.jibi.cc"
+    },
+    {
+      "key": "fanqie",
+      "name": "🍅番茄 • 动漫🍅",
+      "type": 3,
+      "api": "csp_MxOne",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.fqdm.cc"
+    },
+    {
+      "key": "yinghua",
+      "name": "🌸樱花 • 动漫🌸",
+      "type": 3,
+      "api": "csp_MacCms",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.yinhuadm.cc"
+    },
+    {
+      "key": "tuxiaobei",
+      "name": "🐰兔小贝 • 儿童🐰",
+      "type": 3,
+      "api": "csp_TuXiaoBei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongguo_manduan",
+      "name": "🍎红果•漫短🍎",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qukanba",
+      "name": "🍚去看吧 • 动漫🍚",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jpys",
+      "name": "🌏海外 • 1080🌏",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yvyeigh.com",
+      "timeout": 60
+    },
+    {
+      "key": "banri",
+      "name": "🍚半日 • 1080🍚",
+      "type": 3,
+      "api": "csp_App99",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "juquan",
+      "name": "🎬剧圈 • 1080🎬",
+      "type": 3,
+      "api": "csp_App99",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "yingtan4k",
+      "name": "🔎影探 • 4K🔎",
+      "type": 3,
+      "api": "csp_YingTan4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.maihaolian.com"
+        ]
+      },
+      "timeout": 60
+    }
+  ],
+  "lives": [
+    {
+      "name": "IPTV·四川组播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/live.m3u"
+    }
+  ]
+}
