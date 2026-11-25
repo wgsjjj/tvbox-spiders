@@ -1,12 +1,12 @@
 {
-  "spider": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/666.jar;md5;3c1e44eeaf4767e11a75cea90afee683",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/666.jar;md5;3c1e44eeaf4767e11a75cea90afee683",
   "sites": [
     {
       "key": "xiaopingguo",
       "name": "🍎小苹果 · 荐片",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/xiaopingguo.jar;md5;0ba100788615cf2234abcd175299b1a9",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/xiaopingguo.jar;md5;0ba100788615cf2234abcd175299b1a9",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -16,7 +16,7 @@
       "name": "独播库",
       "type": 3,
       "api": "csp_Dbku",
-      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -26,7 +26,7 @@
       "name": "🐒大师兄影视🐒",
       "type": 3,
       "api": "csp_Dsx",
-      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/spiders.jar;md5;2e47ee5b4020a580ef28797b7238e171",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -78,7 +78,7 @@
       "name": "4K影视",
       "type": 3,
       "api": "csp_FourKVM",
-      "jar": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/4kvm-spider.jar;md5;7dae92712450f110e1ae94c11e58b46a",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/4kvm-spider.jar;md5;7dae92712450f110e1ae94c11e58b46a",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -275,7 +275,7 @@
     {
       "name": "IPTV·四川组播",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/live.m3u"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/live.m3u"
     }
   ]
 }
