@@ -3,8 +3,8 @@
   "name": "🏀瓜子体育🏀",
   "type": 3,
   "api": "csp_GuaziSports",
-  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;a57997b3e40b6144f8d3cec022b26455",
+  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;987d6eaca6c4a6ce24fe9b0bcb20c6ce",
   "searchable": 0,
   "quickSearch": 0,
-  "filterable": 0
+  "filterable": 1
 }
