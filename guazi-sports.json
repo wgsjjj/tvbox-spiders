@@ -1,9 +1,9 @@
 {
-  "key": "guazi-sports",
-  "name": "🏀瓜子体育🏀",
+  "key": "guazi-nba",
+  "name": "🏀 瓜子体育 NBA",
   "type": 3,
   "api": "csp_GuaziSports",
-  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;2ea26d7e2e649d0ad5d105ad6cda7b83",
+  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;25fbfb2e50c04f9b3913eb095907192a",
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 1
