@@ -3,10 +3,10 @@
   "sites": [
     {
       "key": "guazi-nba",
-      "name": "🏀 瓜子体育 NBA",
+      "name": "🏀 瓜子+88看球",
       "type": 3,
       "api": "csp_GuaziSports",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;27480addcb1c0418d6f644e3ca37d396",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;6de624484c9bd71af9d3027c85525acb",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
