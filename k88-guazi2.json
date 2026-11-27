@@ -6,7 +6,7 @@
       "name": "📺 88看球",
       "type": 3,
       "api": "csp_K88Sports",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;7ab5c35f79588dff5963d0f64f28f02e",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;38906afe38cdfd0240e1ce1838c46e3e",
       "ext": {
         "src": "k88"
       },
@@ -19,7 +19,7 @@
       "name": "🏀 瓜子体育",
       "type": 3,
       "api": "csp_GuaziSports",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;7ab5c35f79588dff5963d0f64f28f02e",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;38906afe38cdfd0240e1ce1838c46e3e",
       "ext": {
         "src": "guazi"
       },
