@@ -1,9 +1,12 @@
 {
-  "key": "guazi-nba",
-  "name": "🏀 瓜子+88看球",
+  "key": "k88",
+  "name": "📺 88看球",
   "type": 3,
-  "api": "csp_GuaziSports",
-  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;a4ec46d0dfd9ff173ad6207c5cddbb62",
+  "api": "csp_K88Sports",
+  "jar": "https://ghfast.top/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/guazi-sports.jar;md5;7ab5c35f79588dff5963d0f64f28f02e",
+  "ext": {
+    "src": "k88"
+  },
   "searchable": 0,
   "quickSearch": 0,
   "filterable": 0
