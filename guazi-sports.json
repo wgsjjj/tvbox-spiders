@@ -3,7 +3,7 @@
   "name": "📺 88看球",
   "type": 3,
   "api": "csp_K88Sports",
-  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/gs5.jar;md5;c0eb08d0b546b34323c8de22ab973cbc",
+  "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/gs6.jar;md5;55d7695e8a465f8fefe0fbf12622ea21",
   "ext": {
     "src": "k88"
   },
