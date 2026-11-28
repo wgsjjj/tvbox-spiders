@@ -6,26 +6,13 @@
       "name": "📺 88看球",
       "type": 3,
       "api": "csp_K88Sports",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/gs3.jar;md5;a753a7fc651e85adb0b4fe8fa29b10c7",
       "ext": {
         "src": "k88"
       },
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "guazi",
-      "name": "🏀 瓜子体育",
-      "type": 3,
-      "api": "csp_GuaziSports",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/gs3.jar;md5;a753a7fc651e85adb0b4fe8fa29b10c7",
-      "ext": {
-        "src": "guazi"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/wgsjjj/tvbox-spiders/main/gs3.jar;md5;a753a7fc651e85adb0b4fe8fa29b10c7"
     }
   ],
   "lives": []
